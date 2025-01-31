@@ -1,0 +1,11 @@
+Our cells need energy; this should be obvious. You might think that we get this energy directly from the glucose in our food... and you'd be wrong. 
+Glucose definitely holds energy, but it's not in a form that is usable. Cells can only use energy from a molecule called ATP, which stores short-term energy. It's kind of like a "currency" for energy, and our cells would only accept that type of currency.
+Our cells need a way to make ATP from the glucose, which is what a process called 'cellular respiration' does.
+Cellular respiration has three steps: 
+1. Glycolysis:
+   Glycolysis is an anaerobic process, meaning it doesn't require Oxygen to function. Glucose is a 6 Carbon sugar, and glycolysis splits that glucose into two pyruvates, which are molecules with 3 Carbons each. However, the energy required to oxidize that glucose (oxidation is a fancy term for losing electrons, which usually breaks down a molecule) is 2 ATP. The energy released from breaking down that carbon is used to reduce (reduction is a fancy term for gaining electrons, which usually builds up a molecule) a molecule called NAD+ to become NADH, which will be important later. The remaining energy makes 4 ATP. In total, we have 2 NADH, 2 pyruvates (which, as a reminder, are just 3 Carbon sugars) and 2 net ATP (2 spent, 4 gained).
+1.5. Pyruvate Oxidation:
+    As you can (hopefully) guess from the name, these pyruvates get oxidized and broken down a bit more. First, each one gets oxidized to become acetate, a 2 Carbon molecule. Now, there is a bit of an issue - We started off with 6 Carbons, and now there are only 2 from each acetate, which makes 4! So where do the other 2 Carbons go? With the released energy from oxidizing the pyruvates, each of the 2 removed Carbons reacts with Oxygen (obtained from breathing, which you should probably know how to do, otherwise that's deeply concerning) to make CO2, or Carbon Dioxide. This is a waste product and gets breathed out. The acetates, meanwhile, combine with another enzyme called CoA to make Acetyl CoA (this synthesis also requires some of that released energy). With that last bit of remaining energy, 2 more NAD+ get reduced to NADH.
+2. Krebs Cycle
+   This is also known as the Citric Acid Cycle.
+   
